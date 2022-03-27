@@ -1,0 +1,10 @@
+.tool-bar {
+    position: absolute;
+    top: 30px; left: 30px;
+    width: 200px; height: 100px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+.tool-bar #downloadBtn {
+    margin-right: 10px;
+}
